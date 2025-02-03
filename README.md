@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm R Bindu Bhavani</h1>
 
-<img align="right" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="Coding" width="100%" height="500" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <h3 align="center">A passionate full Stack developer from India</h3>
 
