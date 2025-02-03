@@ -1,12 +1,10 @@
-<img align="right" alt="Coding" width="100%" src="https://cdn.dribbble.com/userupload/20620558/file/original-598ee8b998a4e116d0a3d143da8cdaa1.png?resize=1200x360&vertical=center">
-
+![MasterHead](https://camo.githubusercontent.com/a0a9f9e15354c2ce05d7939b2bb024e55fbb9927c540d1e44351e553a5ff2bad/68747470733a2f2f692e6962622e636f2f6246735a44517a2f363837343734373037333361326632663664363137323735363633303330333132643664373432653637363937343638373536323265363936663266353037323635366436393735366432643434363536633639373636353732373932663737363536322e676966)
 <h1 align="center">Hi 👋, I'm R Bindu Bhavani</h1>
 
-<img align="right" alt="Coding" width="100%" height="500" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<h3 align="center">_____A passionate full Stack developer_____</h3>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
-<h3 align="center">A passionate full Stack developer from India</h3>
-
- 🔭 I’m currently working on **Portfolio website**
+- 🔭 I’m currently working on **Portfolio website**
 
 - 🌱 I’m currently learning **Django Figma Power BI**
 
@@ -15,10 +13,10 @@
 - 📫 How to reach me **rbindubhavani09@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/egg3ktmj1m](https://flowcv.com/resume/egg3ktmj1m)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rbindubhavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rbindubhavani" height="30" width="40" /></a>
+<a href="https://instagram.com/code_crafted39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_crafted39" height="30" width="40" /></a>
 <a href="https://dribbble.com/rbindubhavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rbindubhavani" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rbindubhavani09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rbindubhavani09" height="30" width="40" /></a>
 </p>
@@ -29,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rbindubhavani&show_icons=true&locale=en&layout=compact" alt="rbindubhavani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rbindubhavani&show_icons=true&locale=en" alt="rbindubhavani" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbindubhavani&" alt="rbindubhavani" /></p>
