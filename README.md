@@ -1,8 +1,8 @@
 ![MasterHead](https://camo.githubusercontent.com/a0a9f9e15354c2ce05d7939b2bb024e55fbb9927c540d1e44351e553a5ff2bad/68747470733a2f2f692e6962622e636f2f6246735a44517a2f363837343734373037333361326632663664363137323735363633303330333132643664373432653637363937343638373536323265363936663266353037323635366436393735366432643434363536633639373636353732373932663737363536322e676966)
 <h1 align="center">Hi 👋, I'm R Bindu Bhavani</h1>
 
-<h3 align="center">_____A passionate full Stack developer_____</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<h2 align="center">_____A passionate full Stack developer_____</h2>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 - 🔭 I’m currently working on **Portfolio website**
 
