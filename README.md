@@ -4,7 +4,7 @@
 <h2 align="center">_____A passionate full Stack Web Developer_____</h2>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-- 🔭 I’m currently working on **Portfolio website**
+- 🔭 I’m currently working on **chatbot_webpaage**
 
 - 🌱 I’m currently learning **Django Figma Power BI**
 
